@@ -1,4 +1,4 @@
-# NEXUS-2 Testnet Phase 3
+# NEXUS-2 Testnet Phase 
 ## UBUNTU 22.04 or later
 ```
 sudo su -
