@@ -1,4 +1,4 @@
-# NEXUS Testnet Phase 3..
+# NEXUS Testnet Phase 3
 ## UBUNTU 22.04 or later..
 ```
 sudo su -
