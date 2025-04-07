@@ -1,5 +1,5 @@
 # NEXUS-2 Testnet Phase 3
-## UBUNTU 22.04
+## UBUNTU 22.04 or later
 ```
 sudo su -
 apt update
