@@ -31,7 +31,7 @@ curl -OL https://github.com/protocolbuffers/protobuf/releases/download/v25.1/pro
 curl https://cli.nexus.xyz/ | sh
 ```
 
-If you have less than 8 GB RAM run
+If you have less than 8 GB RAM run this
 ```
 sudo fallocate -l 10G /swapfile && sudo chmod 600 /swapfile && sudo mkswap /swapfile && sudo swapon /swapfile && echo '/swapfile none swap sw 0 0' | sudo tee -a /etc/fstab && sudo sysctl vm.swappiness=100 && echo 'vm.swappiness=100' | sudo tee -a /etc/sysctl.conf
 ```
